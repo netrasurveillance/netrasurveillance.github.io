@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Thanks!
 
-Template Name: eStartup
-Template URL: https://bootstrapmade.com/estartup-bootstrap-landing-page-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Website Name: NETRA SURVEILLANCE SOLUTIONS
+
+
