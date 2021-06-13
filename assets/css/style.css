@@ -148,7 +148,7 @@ span {
 }
 
 #header #logo h1 a {
-  color: #555;
+  color: #1e2263;
   display: inline-block;
   text-decoration: none;
 }
@@ -520,7 +520,7 @@ span {
 }
 
  .btns a {
-  color: #555;
+  color: #1e2263;
   font-size: 11px;
   font-weight: 600;
   text-transform: uppercase;
@@ -1156,7 +1156,7 @@ section {
 }
 
 #blog .block-blog .content-blog h4 a {
-  color: #555;
+  color: #1e2263;
   text-decoration: none;
   transition: 0.3s;
 }
